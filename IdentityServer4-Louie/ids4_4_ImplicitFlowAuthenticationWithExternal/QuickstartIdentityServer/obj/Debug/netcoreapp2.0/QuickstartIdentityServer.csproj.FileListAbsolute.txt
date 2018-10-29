@@ -1,0 +1,11 @@
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.deps.json
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.runtimeconfig.json
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.runtimeconfig.dev.json
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.dll
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.csproj.CoreCompileInputs.cache
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.AssemblyInfoInputs.cache
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.AssemblyInfo.cs
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.csprojAssemblyReference.cache
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.pdb
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.dll
+E:\ND-GLY\NETCore\Ids4\Demo\ids4_4_ImplicitFlowAuthenticationWithExternal\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.pdb

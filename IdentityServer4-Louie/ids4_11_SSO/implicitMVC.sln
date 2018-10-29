@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "implicitMVC", "implicitMVC\implicitMVC.csproj", "{E4AEE1E7-576C-4255-83BE-2CCB44267A8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyBirdMVC", "HyBirdMVC\HyBirdMVC.csproj", "{F1DEBE95-F438-4F42-8772-864BCE39DB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavascriptClient", "JavascriptClient\JavascriptClient.csproj", "{1ABBA8B2-7ADE-449F-8131-8CC1F59AC276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthIDS4", "AuthIDS4\AuthIDS4.csproj", "{01AEFE69-8AFE-4B94-96F2-421E03CF0061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4AEE1E7-576C-4255-83BE-2CCB44267A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AEE1E7-576C-4255-83BE-2CCB44267A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AEE1E7-576C-4255-83BE-2CCB44267A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AEE1E7-576C-4255-83BE-2CCB44267A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DEBE95-F438-4F42-8772-864BCE39DB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DEBE95-F438-4F42-8772-864BCE39DB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DEBE95-F438-4F42-8772-864BCE39DB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DEBE95-F438-4F42-8772-864BCE39DB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABBA8B2-7ADE-449F-8131-8CC1F59AC276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABBA8B2-7ADE-449F-8131-8CC1F59AC276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABBA8B2-7ADE-449F-8131-8CC1F59AC276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABBA8B2-7ADE-449F-8131-8CC1F59AC276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AEFE69-8AFE-4B94-96F2-421E03CF0061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AEFE69-8AFE-4B94-96F2-421E03CF0061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AEFE69-8AFE-4B94-96F2-421E03CF0061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AEFE69-8AFE-4B94-96F2-421E03CF0061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E514A3DE-F4E3-45B6-827B-ED72F9EBDE84}
+	EndGlobalSection
+EndGlobal
